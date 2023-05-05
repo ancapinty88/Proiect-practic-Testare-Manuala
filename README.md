@@ -42,4 +42,4 @@ Orange *HRM* Project
 
 ![testconditions](https://user-images.githubusercontent.com/132688930/236515180-56d8fb7c-e694-45dc-af70-44dd3c5a2054.png)
 
-Test Cases [Taste case nr1] (https://github.com/ancapinty88/Proiect-practic-Testare-Manuala/blob/main/Poza.png)
+Test Cases [Taste case nr1](https://github.com/ancapinty88/Proiect-practic-Testare-Manuala/blob/main/Poza.png)
